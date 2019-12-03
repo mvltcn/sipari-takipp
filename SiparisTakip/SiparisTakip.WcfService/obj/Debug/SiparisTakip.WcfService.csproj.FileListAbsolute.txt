@@ -1,0 +1,7 @@
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\bin\SiparisTakip.WcfService.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\bin\SiparisTakip.WcfService.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\bin\SiparisTakip.WcfService.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\obj\Debug\SiparisTakip.WcfService.csprojAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\obj\Debug\SiparisTakip.WcfService.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\obj\Debug\SiparisTakip.WcfService.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.WcfService\obj\Debug\SiparisTakip.WcfService.pdb

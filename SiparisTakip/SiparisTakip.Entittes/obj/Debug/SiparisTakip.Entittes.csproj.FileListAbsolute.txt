@@ -1,0 +1,24 @@
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\SiparisTakip.Entittes.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\SiparisTakip.Entittes.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\SiparisTakip.Entittes.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.csprojAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.csproj.CopyComplete
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\SiparisTakip.Entittes.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\SiparisTakip.Entittes.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\SiparisTakip.Entittes.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.csproj.CopyComplete
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Entittes\obj\Debug\SiparisTakip.Entittes.pdb

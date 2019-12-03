@@ -1,0 +1,62 @@
+﻿@model List<SiparisTakip.Entittes.Models.Stok>
+
+@{
+    ViewBag.Title = "StokListesi";
+}
+
+<h2>StokListesi</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Barkod No
+        </th>
+        <th>
+           Stok Kodu
+        </th>
+        <th>
+           Stok Adı
+        </th>
+        <th>
+            Alış Fiyatı
+        </th>
+        <th>
+            KDV Oranı
+        </th>
+        <th>
+           Satış Fiyatı
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BarkodNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StokKodu)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StokAdi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlisFiyati)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KdvOrani)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SatisFiyati)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

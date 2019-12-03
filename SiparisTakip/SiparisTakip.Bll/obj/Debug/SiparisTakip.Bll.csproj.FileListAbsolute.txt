@@ -1,0 +1,38 @@
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Bll.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Bll.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csprojAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entittes.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entittes.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entittes.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CopyComplete
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Cache.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Cache.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Bll.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Bll.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Cache.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entittes.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Cache.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entittes.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entittes.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CopyComplete
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.pdb

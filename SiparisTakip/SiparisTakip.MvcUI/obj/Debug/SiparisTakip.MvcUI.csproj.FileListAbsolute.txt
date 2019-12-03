@@ -1,0 +1,134 @@
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.MvcUI.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.MvcUI.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.MvcUI.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csc.exe
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csc.exe.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csc.rsp
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csi.exe
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csi.rsp
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.AppContext.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\vbc.exe
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\vbc.exe.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\vbc.rsp
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\VBCSCompiler.exe
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Helpers.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Mvc.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Razor.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Deployment.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Razor.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Razor.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Deployment.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Razor.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Helpers.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Mvc.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.csprojAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.csproj.CopyComplete
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Bll.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Dal.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Entittes.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Interfaces.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Bll.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Dal.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Dal.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Entittes.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Entittes.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Interfaces.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.SqlServer.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.SqlServer.xml
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Cache.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Cache.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\Ninject.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.MvcUI\bin\Ninject.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.MvcUI.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.MvcUI.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.MvcUI.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csc.exe
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csc.exe.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csc.rsp
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csi.exe
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\csi.rsp
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.AppContext.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\vbc.exe
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\vbc.exe.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\vbc.rsp
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\Ninject.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Bll.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Cache.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Dal.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Entittes.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Interfaces.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Helpers.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Mvc.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Razor.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Bll.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Cache.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Dal.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Dal.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Entittes.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Entittes.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\SiparisTakip.Interfaces.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\Ninject.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Razor.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Helpers.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\System.Web.Mvc.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.csproj.CopyComplete
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.MvcUI\obj\Debug\SiparisTakip.MvcUI.pdb

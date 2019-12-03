@@ -1,0 +1,20 @@
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csprojAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entittes.dll
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entittes.pdb
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entittes.dll.config
+D:\Elginkan\Asp.NET MVC\16_02_2019\Hafta5\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CopyComplete
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entittes.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entittes.pdb
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entittes.dll.config
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csproj.CopyComplete
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.dll
+C:\Users\Metin\Desktop\SiparisTakip24_03_2019\SiparisTakip\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.pdb
